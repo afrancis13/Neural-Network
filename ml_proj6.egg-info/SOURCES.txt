@@ -1,0 +1,11 @@
+README
+setup.py
+code/network.py
+code/script_digits.py
+code/utils.py
+ml_proj6.egg-info/.DS_Store
+ml_proj6.egg-info/PKG-INFO
+ml_proj6.egg-info/SOURCES.txt
+ml_proj6.egg-info/dependency_links.txt
+ml_proj6.egg-info/requires.txt
+ml_proj6.egg-info/top_level.txt
