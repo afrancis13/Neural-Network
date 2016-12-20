@@ -40,14 +40,14 @@ This script takes a very long time to run if you run the six-fold cross validati
 
 ``RUN_MSE``:
 
-``True`` - perform cross-validation using the MSE loss classifier - only works when RUN_CROSS_VALIDATION = True.
+``True`` - perform cross-validation using the MSE loss classifier - only works when ``RUN_CROSS_VALIDATION = True``.
 
 ``False`` - do not cross-validate using the MSE loss classifier.
 
 
 ``RUN_CROSS_ENTROPY``:
 
-``True`` - perform cross-validation using the cross-entropy loss classifier - only works when RUN_CROSS_VALIDATION = True.
+``True`` - perform cross-validation using the cross-entropy loss classifier - only works when ``RUN_CROSS_VALIDATION = True``.
 
 ``False`` - do not cross-validate using the cross-entropy loss classifier.
 
