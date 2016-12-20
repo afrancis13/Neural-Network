@@ -1,5 +1,5 @@
 ===================
-CS189 Homework 6
+Neural Network for MNIST Digit Classification
 ===================
 
 This document contains details on how to run the code within this repository, and links the PDF which contains the responses to the questions in this assignment.
